@@ -10,55 +10,55 @@ Text Editor
 <h4>This is how app looks like</h4>
 <br>
 
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4488919/igUCs1lqc6cmfJldMwDmpA6115/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4472047/LBe0nFphjem3V7t26ESh9g3630/ocr">
 
 <hr>
 <h4>Here is how look File button and options inside</h4>
 <b4>
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4032426/ZUiXj3wDyf1QGvMttleIUA0132/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/3822487/Bj8t9ZhZOXdbWXqNbF9qLw8726/ocr">
 <hr>
   <h4>New button option,when you click on it, it will send you to files on your laptop.</h4>
 <br>
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4351189/k3WkmAS2y9NGA3AUdB2law1992/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4304284/b7A0iSEjDJrEK8XPyHBSWg3064/ocr">
 <hr>
   <h4>Also you can save your file on your Desktop.</h4>
   
 <br>
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4537934/wPIdMYyIiiUtTb9GVtjalg6442/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4304284/b7A0iSEjDJrEK8XPyHBSWg3064/ocr">
 <br>
   <h4>If you want to save your file, program will send you a quation "Wish you to save the current file?"</h4>
 <br>
 
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4495327/YsJjbiWA5Bl0r3FkRK5n5w9763/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/2107671/dv-0W49GRj_7Pk3vNGX8cA1678/ocr">
 
 <hr>
 <h4>If you wrote big text file and want to find a saparate word or sentence, you can write this word here</h4>
 <b4>
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4080295/vKUjIlfX0564mjcNfYaoxQ5072/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4760051/d7SOEWGfmthtNzM_7wvXBw3099/ocr">
   
 <hr>
   <h4>If you wrote incorrect, system will send this</h4>
 <br>
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4347551/yn9E5em9s8lUjeWueRAs3w8576/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4316178/zRynkmnz6UbH13kAicmX-A0210/ocr">
 <hr>
   <h4>When you click Edit button, there will be 7 items inside - undo,redo,copy,cut,paste,delete and find</h4>
 <br>
-<img src="https://avatars.mds.yandex.net/get-images-cbir/3598935/JE49KNAlePUg7UR17MJTGw0223/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4431984/_yHt4V42CQGfbQfPW4GPeA0429/ocr">
   
   <br>
   <h4>How u saw before there was a button "Help", so, there it is </h4>
 <br>
 
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4481300/R0uzf67gmF6_Y4Lccj8V1Q4750/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4324261/6epvpZ2w1ft6GCkDJKj32A8050/ocr">
 
 <br>
   <h4>And also "About" button, which is show my contacts and some information.</h4>
 <br>
 
-<img src="https://avatars.mds.yandex.net/get-images-cbir/3588055/NsB-juNezZ5QqyND-Asntw5439/ocr">
+<img src="file:///C:/Users/User/Pictures/Saved%20Pictures/2021-03-24%2022_03_50-About%20The%20Developer.png">
 
 <br>
   <h4>That it is, then you can leave by "Exit" button</h4>
 <br>
 
-<img src="https://avatars.mds.yandex.net/get-images-cbir/4119697/j0U4djKAxSbOTIEPXKe7aA3344/ocr">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4524870/Bj8t9ZhZOXdbWXqNbF9qLw2219/ocr">
