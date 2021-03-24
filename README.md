@@ -62,3 +62,5 @@ Text Editor
 <br>
 
 <img src="https://avatars.mds.yandex.net/get-images-cbir/4524870/Bj8t9ZhZOXdbWXqNbF9qLw2219/ocr">
+<br>
+<h2> Thank you for attention! </h2>
