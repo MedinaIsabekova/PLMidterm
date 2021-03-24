@@ -55,7 +55,7 @@ Text Editor
   <h4>And also "About" button, which is show my contacts and some information.</h4>
 <br>
 
-<img src="file:///C:/Users/User/Pictures/Saved%20Pictures/2021-03-24%2022_03_50-About%20The%20Developer.png">
+<img src="https://avatars.mds.yandex.net/get-images-cbir/4612194/uIT7u8dzHWNg7rohorR4Wg6162/ocr">
 
 <br>
   <h4>That it is, then you can leave by "Exit" button</h4>
